@@ -258,7 +258,5 @@ class UserController extends Controller
         }
     }
     public function pwd(){
-        $c = bcrypt('cxk725402,');
-        dd($c);
     }
 }
