@@ -258,5 +258,6 @@ class UserController extends Controller
         }
     }
     public function pwd(){
+	    echo 1234556;
     }
 }
